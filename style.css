@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, #2dcde2b8, #030168da);
+}
+
+h1 {
+    text-align: center;
+    color: #ffff;
+}
+
+section {
+    box-shadow: 5px 5px 15px black;
+    margin: auto;
+    width: 400px;
+    height: 350px;
+    padding: 40px;
+    font-family: 'Opens Sans', sans-serif;
+    border-radius: 20%;
+    color: white;
+
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
